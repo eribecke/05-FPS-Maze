@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Interpretación de una Fantasía.ogg-9ce72bdf6609d84e1ad18ebf223cecaa.oggstr"
+
+[deps]
+
+source_file="res://Assets/Interpretación de una Fantasía.ogg"
+dest_files=[ "res://.import/Interpretación de una Fantasía.ogg-9ce72bdf6609d84e1ad18ebf223cecaa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
